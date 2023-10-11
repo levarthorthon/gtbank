@@ -1,0 +1,337 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+
+}
+.navSEC{
+    color: #000;
+    background-color: #fff;
+}
+.notice{
+    font-family: 'Kanit', sans-serif;
+    background: rgb(255, 235, 234);
+    padding: 30px;
+    font-size: 15px;
+}
+.navHeader{
+    font-family: 'Kanit', sans-serif;
+    font-size: 10px;
+    margin: auto;
+    background: #fa4811;
+}
+.navHeader2{
+    font-family: 'Kanit', sans-serif;
+    font-size: 15px;
+    margin: auto;
+    background: #ffffff;
+    color: #000;
+    padding-right: 50px;
+}
+.upper{
+    font-size: 18px;
+ color: #fa4811;
+}
+.head2{
+   color: #4f4d4d;
+}
+.seck{
+    min-height: 50rem;
+    background-color: #f2eeee;
+    align-items: center;
+    justify-content: center;
+}
+.inno{
+    display: flex;
+    justify-content: center;
+    text-decoration: solid 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.inno2{
+    display: flex;
+    justify-content: center;
+    font-size: 200;
+}
+.slide1{
+    
+    background:linear-gradient(rgba(255, 255, 255, 0.6),rgba(255, 255, 255, 0.6)), url(./images/GTCO.webp);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.slide2{
+    background:linear-gradient(rgba(255, 255, 255, 0.6),rgba(255, 255, 255, 0.6)), url(./images/01.jpg);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.slide3{
+    background:linear-gradient(rgba(255, 255, 255, 0.6),rgba(255, 255, 255, 0.6)), url(./images/04.jpg);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.orange{
+    color: orangered;
+}
+.more{
+    color: #000;
+}
+.More{
+    background: orangered;
+}
+.navNav{
+    align-items: left;
+}
+.logo{
+    width: 150px;
+    height: auto;
+}
+/* .cardBox{ */
+    /* margin: auto; */
+    /* padding: 30px; */
+/*  */
+/* } */
+/* .cardFlow{ */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* border: medium  black; */
+   /* min-height: 40vh; */
+   /* width: 20%; */
+  /* margin: 2em auto; */
+    /* display: grid; */
+/* grid-template-columns: repeat(3, 1fr
+text-align: end;
+/* font-size: 3em; */
+    
+/* } */
+/* .hback{ */
+    /* background-color: antiquewhite; */
+/* } */
+/* .head{ */
+    /* color: #fa4811; */
+
+/* } */
+/* .head2{ */
+    /* font-weight: 300; */
+/* } */
+
+/* .navbar{ */
+    /* background: #fffefe; */
+    /* height: 150px; */
+    /* border: #414141; */
+/* } */
+/* .navbar-nav { */
+    /* margin-top: -80px; */
+    /* background: #fa4811; */
+    /* left: 50px; */
+    /* height: 40px; */
+    /* width: 50rem; */
+    /* justify-content: left; */
+    /* align-items: left; */
+/*      */
+/* } */
+/* .allb{ */
+    /* color: #fff; */
+/* } */
+
+.navbar-nav .nav-item{
+    
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold; 
+border: 40px;
+}
+.navbar-nav .navbar-brand{
+  justify-content: right;
+  align-items: right;
+  background-color: #fa4811;
+  border: 100px #000;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: #fff;
+    
+}
+
+
+.box{
+    border: medium dotted black;
+    min-height: 40vh;
+    width: 20%;
+    margin: 2em auto;
+    display: grid;
+    /* grid-template-columns: repeat(3, 1fr); */
+    text-align: end;
+    /* font-size: 3em; */
+    
+}
+.online{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.per{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    row-gap: 10rem;
+    
+}
+.but{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+
+/* footer */
+.footer{
+    background: #fff;
+    padding: 70px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #000;
+    font-family: 'Libre+Franklin','ital';
+    font-weight: 200;
+    font-size: 12px;
+}
+ul{
+    list-style-type:none;
+
+}
+ul li{
+    text-decoration: none;
+    color: #4f4d4d;
+}
+
+.aboutHeader{
+    background: url(./images/01.jpg);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    min-height: 25rem;  
+    justify-content: center; 
+    align-items:ce;
+    justify-content: center;
+}
+.aboutHeaderText{
+    background-color: #f1f1f19f ;
+    background-size: 10px;
+    padding: 20px 10px 50px 10px;
+    margin-top: 50px; 
+}
+.contentAbout{
+    padding: 50px 20px 50px;
+    /* background-color: rgb(214, 213, 211); */
+    border: 10px soild red;
+    justify-content: center;
+    align-items:start;
+    
+}
+.contentAbout h3{
+    font-weight: solid 800;
+}
+.contentAbout p{
+    font-weight: 300;
+}
+.numbaerAbout{
+    background-color: #fff;
+    background-size: cover;
+}
+
+.personalHeader{
+ background: url(./images/pics1.jpeg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ min-height: 80vh;
+ 
+}
+
+.personalHeaderTEXT{
+    justify-content: center;
+    align-items: center;
+    background-color: #d3d2d2ab;
+    background-size: 10px;
+    padding: 20px 30px 40px 50px;
+    margin-top: 50px; 
+    background-attachment: fixed;
+    margin-top: 100px;
+    padding-left:80px;
+}
+.personalButton{
+    background-color: #fa4811;
+    padding: 12px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Kanit' ,'ital';
+    box-shadow: #4f4d4d;
+
+}
+.personalButton:hover{
+    background-color: #9e2702;
+}
+
+.personalHeaderAgian{
+    background: #4f4d4d6b;
+    background-size: 50em;
+}
+.personalBody{
+background-color: #d3d2d2ab;
+padding: 80px;
+align-items: end;
+justify-content: center;
+text-align: center;
+box-shadow: #a7a6a6 10px;
+}
+
+.investorHeader1{
+    background-color: #d3d2d2ab;
+    justify-content: center;
+    align-items: center;
+    
+} 
+
+.investorHeader{
+    margin-bottom: 50px;
+    background: url(./images/hand.jpg);
+    background-size:  80rem;;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 70vh;
+}
+.personalRow{
+    margin-top: 50px;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.personalText{
+    font-family: 'Libre' ,'Franklin' ,'ital';
+    padding: 9px;
+    box-shadow: 2px 2px 2px 2px #d8d8d865;
+    color:  #fa4811;
+    
+}
+.personalText:hover{
+    color: #9e2702;
+    box-shadow: 2px 2px 2px 2px #d8d8d865;
+}
+.personalRow img{
+    height: 10em;
+    width: 14em;
+}
+.investorTEXER{
+    background-color: #fff;
+    padding: 20px 10px 50px 20px;
+    font-family: 'Kanit' ,'ital';
+    
+    color:  #fa4811;
+}
+.bussinesHeader{
+    background: url(./images/pexels-photo-4149074.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    min-height: 70vh;
+    
+   }
+

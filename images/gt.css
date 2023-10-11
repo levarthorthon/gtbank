@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap');
+
+/* .notice{ */
+    /* margin: 0; */
+    /* background-color: red; */
+/* } */
+.note{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5px;
+    font-weight: bold;
+    margin-top: 30px;
+    padding-left: 10%;
+    line-height: normal;
+}
+.impo{
+    color: red;
+    font-size: smaller;
+    
+}
+.mind{
+   margin-top: 10px;    
+   font-size: 15px;
+}
+header{
+    background-color: antiquewhite;
+    padding: 0.1%;
+}
+/* .notice{ */
+    /* padding-top: ; */
+/* } */
+
+.bg{
+    color: red;
+}
+.carousel-captio{
+    display: flex;
+    justify-content: center;
+}
